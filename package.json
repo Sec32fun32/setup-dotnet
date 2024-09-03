@@ -33,7 +33,7 @@
     "@actions/glob": "^0.4.0",
     "@actions/http-client": "^2.2.1",
     "@actions/io": "^1.0.2",
-    "fast-xml-parser": "^4.3.6",
+    "fast-xml-parser": "^4.4.1",
     "json5": "^2.2.3",
     "semver": "^7.6.3"
   },
@@ -44,7 +44,7 @@
     "@typescript-eslint/eslint-plugin": "^7.3.0",
     "@typescript-eslint/parser": "^7.3.0",
     "@vercel/ncc": "^0.38.1",
-    "eslint": "^8.57.0",
+    "eslint": "^9.0.0",
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-jest": "^27.9.0",
     "eslint-plugin-node": "^11.1.0",
